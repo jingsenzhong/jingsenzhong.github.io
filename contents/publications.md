@@ -1,15 +1,12 @@
 #### Papers
 
-- Tongwen Xu, Yunhong Lyu*&<strong>Jingsen Zhong</strong>(2025). “Hegemonic” but “obedient” AI boyfriend: the hybrid masculinity of the AI boyfriend and female domination in the China-based FAII<strong>Feminist Media Studies</strong>. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/14680777.2025.2478386)
+- Tongwen Xu, Yunhong Lyu* & <strong>Jingsen Zhong</strong> (2025). “Hegemonic” but “obedient” AI boyfriend: the hybrid masculinity of the AI boyfriend and female domination in the China-based FAII. <strong>Feminist Media Studies</strong>. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/14680777.2025.2478386)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Tongwen Xu, Yingyin Zhou, <strong>Jingsen Zhong*</strong> (2024). Beach Comb as A Short Video Event: Oceanic Imagination and Practice of Users on Short Video Platforms. <strong>New Media Research</strong>. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=9ZlGolWNudK9U4-FxG3Ug-_9eqnxR7YbiNJViEF2LRkowhXgTA6ht0e3J3rFTKId26MLlqmInK_6FsxQr1tJ3n1i0PtMnmj5Xl932N0LTZ3Tbvy4a06Tw-Lt12urT7IwuOXkcRLi686e1-cUkrhsy2fG8URomofTQTJh1AafV7_EjC7l_--atg==&uniplatform=NZKPT&language=CHS)
 
 #### Articles
 
+- A Misleading Trailer and an Unexpected Depth: Review of Table for Six [[Link]](https://mp.weixin.qq.com/s/PgCqgwjTfKQkqqcHVFW7qA)
+
+- Photographic Practice [[Link]](https://mp.weixin.qq.com/s/_2bDvKhtM69hUJARfQsUsw)
 
