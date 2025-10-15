@@ -109,4 +109,12 @@ section .main-body{
     }
 }
 
+/* 规则一：为 "Publications" 标题设置特定颜色 */
+#publications-subtitle {
+    color: #208c2f; /* 深灰色 */
+}
 
+/* 规则二：为 "Internships & Projects" 标题设置特定颜色 */
+#awards-subtitle {
+    color: #cf1111; /* 蓝色 */
+}
