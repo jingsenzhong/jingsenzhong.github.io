@@ -115,6 +115,6 @@ section .main-body{
 }
 
 /* 规则二：为 "Internships & Projects" 标题设置特定颜色 */
-#awards-subtitle {
+#projects-subtitle {
     color: #cf1111; /* 红色 */
 }
