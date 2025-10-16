@@ -118,3 +118,15 @@ section .main-body{
 #awards-subtitle {
     color: #cf1111; /* 蓝色 */
 }
+
+/* --- 新添加的超链接颜色规则 --- */
+section .main-body a {
+    color: #eaf03a; /* 黄色 */
+    text-decoration: none; /* 移除下划线 */
+}
+
+/* 鼠标悬停在链接上时的颜色 */
+section .main-body a:hover {
+    color: #d8de1f; /* 深黄色 */
+    text-decoration: underline; /* 添加下划线 */
+}
