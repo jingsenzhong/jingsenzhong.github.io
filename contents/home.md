@@ -3,7 +3,7 @@
 He is preparing to advance his studies at the master's level.
 #### Contact
 
-Email: zhong13929137407@163.com
+Email: zhong13929137407\[at\]163.com
 
 #### Education
 B.A., Journalism Major, Guangdong Ocean University, 2021—2025.
