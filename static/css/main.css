@@ -111,22 +111,10 @@ section .main-body{
 
 /* 规则一：为 "Publications" 标题设置特定颜色 */
 #publications-subtitle {
-    color: #208c2f; /* 深灰色 */
+    color: #208c2f; /* 绿色 */
 }
 
 /* 规则二：为 "Internships & Projects" 标题设置特定颜色 */
 #awards-subtitle {
-    color: #cf1111; /* 蓝色 */
-}
-
-/* --- 新添加的超链接颜色规则 --- */
-section .main-body a {
-    color: #eaf03a; /* 黄色 */
-    text-decoration: none; /* 移除下划线 */
-}
-
-/* 鼠标悬停在链接上时的颜色 */
-section .main-body a:hover {
-    color: #d8de1f; /* 深黄色 */
-    text-decoration: underline; /* 添加下划线 */
+    color: #cf1111; /* 红色 */
 }
