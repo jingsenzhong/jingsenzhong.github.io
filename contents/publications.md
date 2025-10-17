@@ -6,7 +6,7 @@
 
 #### Articles
 
-- A Misleading Trailer and an Unexpected Depth: Review of Table for Six [[Link]](https://mp.weixin.qq.com/s/PgCqgwjTfKQkqqcHVFW7qA)
+- A Misleading Trailer and an Unexpected Depth: Review of Table for Six. [[Link]](https://mp.weixin.qq.com/s/PgCqgwjTfKQkqqcHVFW7qA)
 
-- Photographic Practice [[Link]](https://mp.weixin.qq.com/s/_2bDvKhtM69hUJARfQsUsw)
+- Photographic Practice. [[Link]](https://mp.weixin.qq.com/s/_2bDvKhtM69hUJARfQsUsw)
 
