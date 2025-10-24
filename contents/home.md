@@ -1,6 +1,6 @@
 
 
-He is preparing to advance his studies at the master's level.
+I am preparing to advance his studies at the master's level.
 #### Contact
 
 Email: zhong13929137407\[at\]163.com
@@ -9,4 +9,4 @@ Email: zhong13929137407\[at\]163.com
 B.A., Journalism Major, Guangdong Ocean University, 2021—2025.
 
 #### Research Interests
-Human-Artificial Intelligence Interaction,New Media and Social Media
+Human-Artificial Intelligence Interaction, New Media and Social Media
