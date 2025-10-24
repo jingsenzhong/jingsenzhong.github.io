@@ -12,4 +12,4 @@
 
 - Operated the "Endorphin Receptor" WeChat Public Account, 2021 — present.
 
-For more details, please click the [[Link]](https://mp.weixin.qq.com/s/_2bDvKhtM69hUJARfQsUsw) to view.
+For more details, please click the [[Link]](https://sites.google.com/view/jingsenzhong/articles) to view.
