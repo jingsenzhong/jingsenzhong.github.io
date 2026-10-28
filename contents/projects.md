@@ -11,5 +11,3 @@
 - Managed the "10-Point Master" account on Rednote, 2024 — present.
 
 - Operated the "Endorphin Receptor" WeChat Public Account, 2021 — present.
-
-For more details, please click the [[Link]](https://sites.google.com/view/jingsenzhong) to view.
