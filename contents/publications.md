@@ -20,7 +20,7 @@ A photography project documenting a children's art workshop, focusing on the cre
 
 A student-produced promotional video exploring the role of Octopus in everyday life in Hong Kong.
 
-My Contributions:Scriptwriting, storyboarding, production planning, and shoot coordination.
+**My Contributions: Scriptwriting, Storyboarding, Production Planning, and Shoot Coordination.**
 
 - [Watch Video](https://eample)
 - [View Storyboard (PDF)](https://eample)
