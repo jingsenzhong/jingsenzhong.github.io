@@ -4,6 +4,7 @@ I am currently pursuing a Master of Arts in New Media and Social Media at The Ed
 
 #### Education
 **M.A. in New Media and Social Media**, The Education University of Hong Kong, 2026–Present.
+
 **B.A. in Journalism**, Guangdong Ocean University, 2021–2025.
 
 #### Areas of Interest
