@@ -37,9 +37,7 @@ My Contributions:Scriptwriting, storyboarding, production planning, and shoot co
 A selection of photographic work exploring everyday moments, visual composition, and storytelling through images.
 - [View Work](https://mp.weixin.qq.com/s/_2bDvKhtM69hUJARfQsUsw)
 
-
-
-
+---
 
 #### Writing & Content
 
@@ -52,6 +50,8 @@ A critical review of the Hong Kong film *Table for Six*, examining its storytell
 
 - [Read Article](https://mp.weixin.qq.com/s/PgCqgwjTfKQkqqcHVFW7qA)
 
+---
+
 **Social Media & Content Creation**
 
 *Content Planning · Editorial Writing · Social Media Operations*
@@ -63,9 +63,7 @@ A selection of content creation and social media projects, including editorial w
 
 *Selected projects and supporting materials to be added.*
 
-
-
-
+---
 
 #### Research & Publications
 
