@@ -42,7 +42,7 @@ A selection of photographic work exploring everyday moments, visual composition,
 
 **A Misleading Trailer and an Unexpected Depth: Review of Table for Six**
 
-*Film Review · Selected Writing*
+*Film Review · Selected Writing · 2022*
 
 A critical review of the Hong Kong film *Table for Six*, examining its storytelling and thematic expression.
 
