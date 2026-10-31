@@ -21,8 +21,8 @@ A student-produced promotional video exploring the role of Octopus in everyday l
 **My Contributions: Scriptwriting, Storyboarding, Production Planning, and Shoot Coordination.**
 
 - [Watch Video](https://eample)
-- [View Storyboard (PDF)](https://eample)
-- [Behind the Scenes](https://eample)
+- [View Creative Brief & Shooting Script (PDF)](/static/assets/files/Jingsen_Zhong_Octopus_Creative_Brief_and_Shooting_Script.pdf)
+- [Pre-production Shot List (Excel)](/static/assets/files/Jingsen_Zhong_Octopus_Pre-Production_Shot_List.xlsx)
 
 *Project in progress. Materials will be available upon completion.*
 
