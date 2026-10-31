@@ -16,15 +16,15 @@ A photography project documenting a children's art workshop, focusing on the cre
 
 *Student Video Production Project · 2026*
 
-A student-produced promotional video exploring the role of Octopus in everyday life in Hong Kong.
+A student-produced promotional video exploring how everyday use of Octopus helps newcomers connect with life and people in Hong Kong.
 
-**My Contributions: Scriptwriting, Storyboarding, Production Planning, and Shoot Coordination.**
+**My Contributions: Creative concept and script development, shot-by-shot planning, filming schedules, location-based shot list preparation, and on-site coordination.**
 
-- [Watch Video](https://eample)
+- [Watch Video(Coming Soon)](https://eample)
 - [View Creative Brief & Shooting Script (PDF)](/static/assets/files/Jingsen_Zhong_Octopus_Creative_Brief_and_Shooting_Script.pdf)
 - [Pre-production Shot List (Excel)](/static/assets/files/Jingsen_Zhong_Octopus_Pre-Production_Shot_List.xlsx)
 
-*Project in progress. Materials will be available upon completion.*
+*Unofficial student project created for academic purposes.*
 
 ---
 
