@@ -7,8 +7,8 @@
 
 A photography project documenting a children's art workshop, focusing on the creative process, interactions, and atmosphere of the event.
 
-- [View Photography Portfolio (PDF)](/static/assets/files/Jingsen_ZHONG_Photography_Portfolio.pdf)- [Selected Photographs](https://eample)
-
+- [View Photography Portfolio (PDF)](/static/assets/files/Jingsen_ZHONG_Photography_Portfolio.pdf)
+- [Photography Gallery](https://500px.com.cn/p/d72f7e5e1cd5a0?m=works)
 *Portfolio and gallery links to be updated.*
 
 ---
