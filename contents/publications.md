@@ -30,7 +30,7 @@ A student-produced promotional video exploring how everyday use of Octopus helps
 
 **Photographic Practice**
 
-*Photography · Visual Storytelling*
+*Photography · Visual Storytelling · 2022*
 
 A selection of photographic work exploring everyday moments, visual composition, and storytelling through images.
 - [View Work](https://mp.weixin.qq.com/s/_2bDvKhtM69hUJARfQsUsw)
